@@ -22,7 +22,7 @@ import tempfile
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)  
 
 # BoT SeT 
-TELEGRAM_BOT_TOKEN = "8573620678:AAFFAg4mxe5p69Z3ypPHnPmPcWFemBDeDdQ"
+TELEGRAM_BOT_TOKEN = "7706280640:AAEcHdgn3NDD4Ga0CJyuak-4aNwsP7E0Qq4"
 ADMIN_USER_IDS = [7697190342]
 # FiLeS SeT
 USERS_FILE = 'users.json'
