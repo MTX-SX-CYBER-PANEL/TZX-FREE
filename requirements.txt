@@ -1,0 +1,8 @@
+requests
+urllib3
+psutil
+pyjwt
+protobuf-decoder
+pycryptodome
+pyTelegramBotAPI
+protobuf
