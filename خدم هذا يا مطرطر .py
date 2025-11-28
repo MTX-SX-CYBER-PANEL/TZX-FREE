@@ -23,7 +23,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # BoT SeT 
 TELEGRAM_BOT_TOKEN = "7706280640:AAEcHdgn3NDD4Ga0CJyuak-4aNwsP7E0Qq4"
-ADMIN_USER_IDS = [7697190342]
+ADMIN_USER_IDS = [7375963526]
 # FiLeS SeT
 USERS_FILE = 'users.json'
 ACTIVATIONS_FILE = 'activations.json'
